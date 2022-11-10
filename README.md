@@ -28,7 +28,7 @@ Reuslt
 
 https://user-images.githubusercontent.com/117934226/201194728-d183f461-6f0d-46d2-8bf2-5c629369d808.mp4
 
-![photo_2022-09-11_21-10-36 - Copy (2)](https://user-images.githubusercontent.com/117934226/201202399-b1939b71-ceaf-4513-8554-70ed5a95eb45.jpg)
+![photo_2022-09-11_21-10-36](https://user-images.githubusercontent.com/117934226/201202544-1ccbe61d-f384-45e5-bc52-db56e88a6815.jpg)
 
 
 Albert Einstein image
