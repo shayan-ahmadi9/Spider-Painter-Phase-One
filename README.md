@@ -2,6 +2,9 @@
 Design, construction and control of a two-degree-of-freedom autonomous wall painting robot in a vertical plane
 
 ESLAB
+
+https://user-images.githubusercontent.com/117934226/201297283-8b400c16-a557-4788-ae76-2b046fcc3cbb.mp4
+
 Municipality of Tehran Logo
 
 ![Slide23](https://user-images.githubusercontent.com/117934226/201197310-42816c8c-6b0c-4f80-8f09-02da01af0cd8.jpg)
