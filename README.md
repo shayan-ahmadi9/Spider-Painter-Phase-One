@@ -18,8 +18,6 @@ Result
 
 https://user-images.githubusercontent.com/117934226/201200063-00bbee07-0ceb-4942-b4c7-4b7e918de1be.mp4
 
-
-
 ## A sample image
 
 ![maani](https://user-images.githubusercontent.com/117934226/201195308-59915f43-d341-4c26-8c33-6e13b2fe3ffe.jpg)
@@ -43,4 +41,40 @@ https://user-images.githubusercontent.com/117934226/201194728-d183f461-6f0d-46d2
 Result
 
 ![Albert Einstein](https://user-images.githubusercontent.com/117934226/201195617-5fd25550-d126-4f09-94e3-e169f0852fdf.jpg)
+
+## ESLAB Logo with new algorithm using MATLAB
+
+![ESLAB](https://user-images.githubusercontent.com/117934226/203494557-ecd8425d-3bde-430f-8f06-3dbb9ea47247.jpg)
+
+Black & White
+
+![ESLAB800](https://user-images.githubusercontent.com/117934226/203494632-8dc2749a-062b-442f-8471-ba449c83ea8a.jpg)
+
+Result
+
+https://user-images.githubusercontent.com/117934226/203494724-3b543be0-4099-436e-ac3d-06a1e2c53ec1.mp4
+
+![eslab2](https://user-images.githubusercontent.com/117934226/203494898-25f09249-b73f-4ea5-a29e-24d20457230d.jpg)
+
+## UT Logo
+
+![UT512](https://user-images.githubusercontent.com/117934226/203495029-505cca41-3999-4b77-b55d-ee0d4f9a333f.jpg)
+
+
+
+
+https://user-images.githubusercontent.com/117934226/203495049-210cf5f0-b4c1-4aba-83e9-ddf1fd903d2d.mp4
+
+
+![ut](https://user-images.githubusercontent.com/117934226/203495084-1fb25ea3-cea0-4ede-bd30-b3497f4f0613.jpg)
+
+## Azadi Tower in Tehran
+
+![azadi2](https://user-images.githubusercontent.com/117934226/203495176-0a72a848-5bd7-41a0-83ab-615bd80dbc83.jpg)
+
+
+
+https://user-images.githubusercontent.com/117934226/203495199-aa958df5-ac50-41bf-8da5-4b2550579bb8.mp4
+
+![azadi](https://user-images.githubusercontent.com/117934226/203495207-0dab0cc9-606b-411a-bb3e-fe7a3506ad66.jpg)
 
